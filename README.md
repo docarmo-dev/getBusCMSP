@@ -1,4 +1,4 @@
-\# 🚀 AWS Lambda - getBusCMSP
+\# AWS Lambda - getBusCMSP
 
 
 
@@ -6,7 +6,7 @@ This project is an AWS Lambda function written in Python.
 
 
 
-\## 📌 Features
+\## Features
 
 \- Serverless architecture using AWS Lambda
 
@@ -14,7 +14,7 @@ This project is an AWS Lambda function written in Python.
 
 
 
-\## 🛠️ Tech Stack
+\## Stack
 
 \- Python 3.12
 
@@ -24,11 +24,10 @@ This project is an AWS Lambda function written in Python.
 
 
 
-\## 🚀 Deployment
+\## Deployment
 
 This project uses CI/CD to automatically deploy to AWS Lambda on every push to main branch.
 
 
 
-\## 📂 Structure
 
