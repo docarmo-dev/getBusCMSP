@@ -1,0 +1,6 @@
+parada, sentido
+710016818, centro
+710016812, bairro
+7113180, bairro
+710016820, centro
+710000608, bairro
