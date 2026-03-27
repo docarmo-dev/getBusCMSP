@@ -13,6 +13,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Install dependencies
+        run: pip install -r requirements.txt -t src/
+
       - name: Zip Lambda function
         run: |
           cd src
